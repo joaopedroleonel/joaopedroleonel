@@ -1,7 +1,5 @@
 Hi there, I’m Joao Pedro
 
-- I’m currently working on front-end
-- I’m currently learning javascript
 
 <div>
   <a href="https://github.com/joaopedroleonel">
