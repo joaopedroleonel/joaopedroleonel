@@ -1,5 +1,4 @@
 <p>Hi there, I’m Joao Pedro</p>
-<link rel="stylesheet" type="text/css" href="style-me.css">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroleonel)](https://github.com/joaopedroleonel)
 <br>
