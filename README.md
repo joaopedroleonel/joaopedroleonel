@@ -1,8 +1,9 @@
-Hi I’m Joao Pedro
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroleonel&theme=radical)](https://github.com/joaopedroleonel)
+.
+<img src="hi.png">
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroleonel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroleonel)](https://github.com/joaopedroleonel)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroleonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: flex;margin-top:-100px;"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
