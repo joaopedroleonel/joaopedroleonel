@@ -1,5 +1,5 @@
 
-<img src="hi.png"></img>
+<a href="https://github.com/joaopedroleonel"><img src="hi.png"></a>
 <br>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroleonel)](https://github.com/joaopedroleonel)
