@@ -4,8 +4,6 @@
 > 💼 Desenvolvedor Fullstack  
 > 🔒 Entusiasta de Linux e Cibersegurança  
 
----
-
 ## 💻 Tech Stack
 
 <p align="left">
@@ -24,20 +22,14 @@
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /></a>
 </p>
 
----
-
 ## 📈 Minhas Estatísticas no GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroleonel&show_icons=true&theme=radical)](https://github.com/joaopedroleonel)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroleonel&layout=compact&theme=radical)](https://github.com/joaopedroleonel)
 
----
-
 ## 📫 Como Me Encontrar
 
-- LinkedIn: [seu-perfil]([https://www.linkedin.com/in/seu-perfil](https://br.linkedin.com/in/jo%C3%A3o-pedro-segatto-4865902ba))  
-
----
+- LinkedIn: https://br.linkedin.com/in/jo%C3%A3o-pedro-segatto-4865902ba
 
 > “A programação não é apenas escrever código, é uma arte de solucionar problemas.”  
 
