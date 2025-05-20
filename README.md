@@ -31,7 +31,7 @@
 
 - LinkedIn: [João Pedro](https://br.linkedin.com/in/jo%C3%A3o-pedro-segatto-4865902ba)
 
-
+<br>
 > “A programação não é apenas escrever código, é uma arte de solucionar problemas.”  
 
 
