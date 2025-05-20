@@ -1,8 +1,9 @@
-# Olá, eu sou o João Pedro 👋
+# Hi there 👋, I'm João Pedro
 
-> 🎓 Estudante de Engenharia de Software  
-> 💼 Desenvolvedor Fullstack  
-> 🔒 Entusiasta de Linux e Cibersegurança  
+- 🎓 Software Engineering student  
+- 💼 Fullstack Developer  
+- 🐧 Linux & Cybersecurity enthusiast
+- 🎨 Skilled in Motion Design
 
 ## 💻 Tech Stack
 
@@ -22,12 +23,12 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-## 📈 Minhas Estatísticas no GitHub
+## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroleonel&show_icons=true&theme=radical)](https://github.com/joaopedroleonel)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroleonel&layout=compact&theme=radical)](https://github.com/joaopedroleonel)
 
-## 📫 Como Me Encontrar
+## 📫 How to reach me
 
 - LinkedIn: [João Pedro](https://br.linkedin.com/in/jo%C3%A3o-pedro-segatto-4865902ba)
 
