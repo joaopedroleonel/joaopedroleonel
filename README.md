@@ -41,7 +41,7 @@
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroleonel&show_icons=true&theme=radical)](https://github.com/joaopedroleonel)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroleonel&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/joaopedroleonel)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroleonel&layout=compact&theme=radical)](https://github.com/joaopedroleonel)
 
 ## 📫 How to reach me
