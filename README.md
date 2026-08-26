@@ -46,7 +46,7 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [João Pedro](https://br.linkedin.com/in/jo%C3%A3o-pedro-segatto-4865902ba)
+- LinkedIn: [João Pedro](https://br.linkedin.com/in/jo%C3%A3o-pedro-segatto)
 
 
 
