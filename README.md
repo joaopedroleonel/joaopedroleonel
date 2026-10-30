@@ -7,7 +7,7 @@
 
 ## 💻 Tecnologias
 
-<p align="left">
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS-563d7c?&style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -22,24 +22,20 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+</div>
 
 ## 📈 Estatísticas do GitHub
 
@@ -48,14 +44,14 @@
 
 ## 📌 Repositórios em destaque
 
-<p align="left">
+<div>
   <a href="https://github.com/Satto-js/satto"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=Satto-js&repo=satto&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
   <a href="https://github.com/joaopedroleonel/Start-Farm-2025"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=Start-Farm-2025&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
-  <a href="https://github.com/joaopedroleonel/hack-na-pratica-mini-curso"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=hack-na-pratica-mini-curso&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
-  <a href="https://github.com/joaopedroleonel/video-downloader-web-app"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=video-downloader-web-app&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
   <a href="https://github.com/joaopedroleonel/dog-gallery"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=dog-gallery&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/joaopedroleonel/video-downloader-web-app"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=video-downloader-web-app&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
   <a href="https://github.com/joaopedroleonel/WebFlix-site"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=WebFlix-site&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
-</p>
+  <a href="https://github.com/joaopedroleonel/WebFlix-api"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=WebFlix-api&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
+</div>
 
 ## 📫 Como falar comigo
 
