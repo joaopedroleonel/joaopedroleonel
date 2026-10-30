@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o João Pedro
 
 - 🎓 Estudante de Engenharia de Software  
-- 💼 Desenvolvedor Fullstack  
+- 💼 Desenvolvedor Full-stack  
 - 🐧 Entusiasta de Linux e Cibersegurança
 - 🎨 Experiência em Motion Design
 
