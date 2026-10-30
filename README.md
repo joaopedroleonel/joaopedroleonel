@@ -59,4 +59,4 @@
 
 ## 📫 Como falar comigo
 
-- LinkedIn: [João Pedro](https://br.linkedin.com/in/jo%C3%A3o-pedro-segatto)
+- LinkedIn: [João Pedro](https://www.linkedin.com/in/joao-pedro-segatto/)
