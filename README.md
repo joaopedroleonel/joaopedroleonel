@@ -47,8 +47,9 @@
 <div>
   <a href="https://github.com/Satto-js/satto"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=Satto-js&repo=satto&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
   <a href="https://github.com/joaopedroleonel/Start-Farm-2025"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=Start-Farm-2025&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
-  <a href="https://github.com/joaopedroleonel/dog-gallery"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=dog-gallery&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/joaopedroleonel/whatsapp-ai-agent"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=whatsapp-ai-agent&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
   <a href="https://github.com/joaopedroleonel/video-downloader-web-app"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=video-downloader-web-app&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
+  <a href="https://github.com/joaopedroleonel/dog-gallery"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=dog-gallery&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
   <a href="https://github.com/joaopedroleonel/WebFlix-site"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=WebFlix-site&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
   <a href="https://github.com/joaopedroleonel/WebFlix-api"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=joaopedroleonel&repo=WebFlix-api&theme=github_dark&hide_border=true&description_lines_count=3" /></a>
 </div>
